@@ -1,29 +1,54 @@
-# https://leetcode.com/problems/delete-node-in-a-linked-list/description/
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
+# https://leetcode.com/problems/valid-anagram/description/
 class Solution:
-    def deleteNode(self, node):
+    # 1 使用count beat 98%
+    def isAnagram(self, s, t):
         """
-        :type node: ListNode
-        :rtype: void Do not return anything, modify node in-place instead.
+        :type s: str
+        :type t: str
+        :rtype: bool
         """
-        # 这题有问题啊！要删除的点也没有，肯定是错了
-        node.val = node.next.val
-        node.next = node.next.next
-    # 上面的代码可以通过，且beat100%
-
-    # 实际上我认为题目应该是这样
-    def deleteNode(self, head,node):
+        # 判断含字母的个数是否一致
+        if len(set(s))!=len(set(t)):
+            return False
+        alpha = set(s)
+        for i in alpha:
+            if s.count(i)!=t.count(i):
+                return False
+        return True
+    # 2 使用字典
+    def isAnagram(self, s, t):
         """
-        :type head: ListNode
-        :type node: int
-        :rtype: void Do not return anything, modify node in-place instead.
+        :type s: str
+        :type t: str
+        :rtype: bool
         """
-        while head and head.next:
-            if head.val==node:
-                head = head.next
-                return
+        dic1 = {}
+        dic2 = {}
+        for i in s:
+            if i in dic1:
+                dic1[i] += 1
+            else:
+                dic1[i] = 1
+        for j in t:
+            if j in dic2:
+                dic2[j] += 1
+            else:
+                dic2[j] = 1
+        return dic1 == dic2
+    # 3 使用 from collections import Counter 不推荐
+    from collections import Counter
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        s_d = Counter(s)
+        t_d = Counter(t)
+        if len(s_d.keys()) != len(t_d.keys()):
+            return False
+        
+        for key in s_d:
+            if s_d[key] != t_d[key]:
+                return False
+        return True
