@@ -11,6 +11,16 @@ Come on!
 
 3 problems Every Day!
 
+---
+
+2018.10.25 almost one whole month!!
+
+Keep on!
+
+                                                                                              (noted on 2018.10.25)
+
+---
+
 **打卡记录**
 
 | Date | Problems | Checked | day |
