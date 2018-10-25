@@ -17,7 +17,9 @@ Come on!
 
 Keep on!
 
-                                                                                              (noted on 2018.10.25)
+Add some sort functions in sort folder!
+
+(noted on 2018.10.25)
 
 ---
 
