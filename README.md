@@ -11,6 +11,8 @@ Come on!
 
 3 problems Every Day!
 
+(noted on 2018.9.26)
+
 ---
 
 2018.10.25 almost one whole month!!
@@ -20,6 +22,18 @@ Keep on!
 Add some sort functions in sort folder!
 
 (noted on 2018.10.25)
+
+---
+
+Today I find that some problems are not good that many people are against them.
+
+These problems are always getting more opposite thumbs.
+
+So I decided to ignore those problems with more opposite thumbs。
+
+Such as 475#Heaters
+
+(noted on 2018.10.29)
 
 ---
 
@@ -60,3 +74,4 @@ Add some sort functions in sort folder!
 | 2018.10.26 | 434,437,438 | yes | 31 |
 | 2018.10.27 | 441,443,447 | yes | 32 |
 | 2018.10.28 | 448,455,459 | yes | 33 |
+| 2018.10.29 | 461,463,476 | yes | 34 |
