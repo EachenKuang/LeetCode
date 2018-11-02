@@ -37,6 +37,18 @@ Such as 475#Heaters
 
 ---
 
+A new month starts!
+
+Keep on moving.
+
+With the speed, maybe I can finish all the easy problems before Spring Festival!
+
+That sounds fantastic!
+
+(noted on 2018.11.2)
+
+---
+
 **打卡记录**
 
 | Date | Problems | Checked | day |
