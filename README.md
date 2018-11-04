@@ -49,6 +49,12 @@ That sounds fantastic!
 
 ---
 
+on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problems. In the end, 6 easy problems all in all.
+
+(noted on 2018.11.4)
+
+---
+
 **打卡记录**
 
 | Date | Problems | Checked | day |
