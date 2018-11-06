@@ -55,6 +55,12 @@ on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problem
 
 ---
 
+3 problems for yesterday and 3 for today
+
+(noted on 2018.11.6)
+
+---
+
 **打卡记录**
 
 | Date | Problems | Checked | day |
@@ -99,3 +105,5 @@ on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problem
 | 2018.11.02 | 507,520,530 | yes | 38 |
 | 2018.11.03 | 532,538,541 | yes | 39 |
 | 2018.11.04 | 543,551,557 | yes | 40 |
+| 2018.11.05 | 559,561,563 | yes | 41 |
+| 2018.11.06 | 566,572,575 | yes | 42 |
