@@ -110,3 +110,4 @@ on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problem
 | 2018.11.07 | 589,590,598 | yes | 43 |
 | 2018.11.08 | 599,605,606 | yes | 44 |
 | 2018.11.09 | 517,628,633 | yes | 45 |
+| 2018.11.10 | 637,643,645 | yes | 46 |
