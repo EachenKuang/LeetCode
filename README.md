@@ -61,6 +61,17 @@ on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problem
 
 ---
 
+start to tag problems
+
+the first one is tag "String"
+
+then the problems will be in folder "string"
+
+(noted on 2018.11.11)
+
+---
+
+
 **打卡记录**
 
 | Date | Problems | Checked | day |
@@ -111,3 +122,4 @@ on 2018.11.3, I came back to my hometown, so I had no time solving the 3 problem
 | 2018.11.08 | 599,605,606 | yes | 44 |
 | 2018.11.09 | 517,628,633 | yes | 45 |
 | 2018.11.10 | 637,643,645 | yes | 46 |
+| 2018.11.11 | 709,804,929 | yes | 46 |
