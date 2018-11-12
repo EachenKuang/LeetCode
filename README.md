@@ -1,4 +1,10 @@
 # LeetCode
+
+[Welcome to Eachen Kuang's LeetCode](https://leetcode.com/eachenkuang/)
+[Welcome to Eachen Kuang's Zhihu](https://www.zhihu.com/people/po-xiao-chen/)
+
+---
+
 Time flies! Long time no see!
 
 The first time I came hear is several years ago, now I come back.
