@@ -1,7 +1,10 @@
 # LeetCode
 
-[Welcome to Eachen Kuang's LeetCode](https://leetcode.com/eachenkuang/)
-[Welcome to Eachen Kuang's Zhihu](https://www.zhihu.com/people/po-xiao-chen/)
+**Welcomes!**
+
+[*Eachen Kuang's* **LeetCode**](https://leetcode.com/eachenkuang/)
+
+[*Eachen Kuang's* **Zhihu**](https://www.zhihu.com/people/po-xiao-chen/)
 
 ---
 
