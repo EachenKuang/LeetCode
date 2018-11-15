@@ -80,6 +80,11 @@ then the problems will be in folder "string"
 
 ---
 
+tag "String" medium probelems start 
+
+(noted on 2018.11.15)
+
+---
 
 **打卡记录**
 
@@ -135,4 +140,4 @@ then the problems will be in folder "string"
 | 2018.11.12 | 680,686,859 | yes | 48 |
 | 2018.11.13 | 657,521,893 | yes | 49 |
 | 2018.11.14 | 696,788,819 | yes | 50 |
-| 2018.11.15 | 824,937 | yes | 51 |
+| 2018.11.15 | 824,937,890 | yes | 51 |
