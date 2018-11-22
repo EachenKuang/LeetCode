@@ -18,4 +18,3 @@ class Solution:
         return A
     def sortArrayByParity(self, A):
         return sorted(A,key=lambda a:a%2)
-            

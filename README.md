@@ -62,6 +62,7 @@
 | 2018.11.19 | 49,583,916 | yes | 55 |
 | 2018.11.20 | 816,831,833 | yes | 56 |
 | 2018.11.21 | 17,767,809 | yes | 57 |
+| 2018.11.22 | 832,867,905 | yes | 58 |
 
 ### Log
 
@@ -145,6 +146,11 @@ tag "String" medium probelems start
 
 ---
 
+tag "Array" probelems start 
+
+(noted on 2018.11.22)
+
+---
 
 ### Contact
 [*Eachen Kuang's* **LeetCode**](https://leetcode.com/eachenkuang/)  
