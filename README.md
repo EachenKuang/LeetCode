@@ -63,6 +63,9 @@
 | 2018.11.21 | 17,767,809 | yes | 57 |
 | 2018.11.22 | 832,867,905 | yes | 58 |
 | 2018.11.23 | 766,896,888 | yes | 59 |
+| 2018.11.24 | 697,922,717 | yes | 60 |
+| 2018.11.25 | 661,674,830 | yes | 61 |
+
 
 ### Log
 
@@ -149,6 +152,18 @@ tag "String" medium probelems start
 tag "Array" probelems start 
 
 (noted on 2018.11.22)
+
+---
+
+It is the 60th day  today!
+
+I will take my second half marathon 2018 in Xiamen
+
+Come on!!
+
+Run run run!!!!!!
+
+(noted on 2018.11.24)
 
 ---
 
