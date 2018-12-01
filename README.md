@@ -1,7 +1,16 @@
 # LeetCode
 
-### Check List
+### Introduction
+This website is used to record the process of solving problems in [**LeetCode**](https://leetcode.com/). 
+On the one hand, I can develop a habit of solving problems, on the other hand, 
+I can motivate myself to challenge difficulties one after another.
+If you are interested in it, please join us!
 
+### Contact
+[*Eachen Kuang's* **LeetCode**](https://leetcode.com/eachenkuang/)  
+[*Eachen Kuang's* **Zhihu**](https://www.zhihu.com/people/po-xiao-chen/)
+
+### Check List
 | Date | Problems | Checked | day |
 | :------: | :------: | :------: | :------: |
 | 2018.9.26 | 1,2,3 | yes | 1 |
@@ -9,15 +18,15 @@
 | 2018.9.28 | 14,20,21 | yes | 3 |
 | 2018.9.29 | 26,27,28 | yes | 4 |
 | 2018.9.30 | 35,38,53 | yes | 5 |
-| 2018.10.1 | 58,66,67 | yes | 6 |
-| 2018.10.2 | 69,70,83 | yes | 7 |
-| 2018.10.3 | 88,100,101 | yes | 8 |
-| 2018.10.4 | 104,107,108 | yes | 9 |
-| 2018.10.5 | 110,111,112 | yes | 10 |
-| 2018.10.6 | 118,119,121,122 | yes | 11 |
-| 2018.10.7 | 125,136,141,142 | yes | 12 |
-| 2018.10.8 | 155,160,167 | yes | 13 |
-| 2018.10.9 | 168,169,171 | yes | 14 |
+| 2018.10.01 | 58,66,67 | yes | 6 |
+| 2018.10.02 | 69,70,83 | yes | 7 |
+| 2018.10.03 | 88,100,101 | yes | 8 |
+| 2018.10.04 | 104,107,108 | yes | 9 |
+| 2018.10.05 | 110,111,112 | yes | 10 |
+| 2018.10.06 | 118,119,121,122 | yes | 11 |
+| 2018.10.07 | 125,136,141,142 | yes | 12 |
+| 2018.10.08 | 155,160,167 | yes | 13 |
+| 2018.10.09 | 168,169,171 | yes | 14 |
 | 2018.10.10 | 172,189,190 | yes | 15 |
 | 2018.10.11 | 191,198,202 | yes | 16 |
 | 2018.10.12 | 203,204,205 | yes | 17 |
@@ -70,6 +79,7 @@
 | 2018.11.28 | 442,665,581 | yes | 64 |
 | 2018.11.29 | 238,495,695 | yes | 65 |
 | 2018.11.30 | 11,18,41 | yes | 66 |
+| 2018.12.01 | 31,34,55 | yes | 67 |
 
 ### Log
 
@@ -171,6 +181,9 @@ Run run run!!!!!!
 
 ---
 
-### Contact
-[*Eachen Kuang's* **LeetCode**](https://leetcode.com/eachenkuang/)  
-[*Eachen Kuang's* **Zhihu**](https://www.zhihu.com/people/po-xiao-chen/)
+A new month comes!
+
+(noted on 2018.12.01)
+
+---
+
