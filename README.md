@@ -82,6 +82,7 @@ If you are interested in it, please join us!
 | 2018.12.01 | 31,34,55 | yes | 67 |
 | 2018.12.02 | 39,40 | yes | 68 |
 | 2018.12.03 | 48,54 | yes | 69 |
+| 2018.12.04 | 59,73 | yes | 70 |
 
 ### Log
 
