@@ -83,6 +83,7 @@ If you are interested in it, please join us!
 | 2018.12.02 | 39,40 | yes | 68 |
 | 2018.12.03 | 48,54 | yes | 69 |
 | 2018.12.04 | 59,73 | yes | 70 |
+| 2018.12.05 | 56,57 | yes | 71 |
 
 ### Log
 
