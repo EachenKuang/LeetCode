@@ -85,3 +85,4 @@ If you are interested in it, please join us!
 | 2018.12.04 | 59,73 | yes | 70 |
 | 2018.12.05 | 56,57 | yes | 71 |
 | 2018.12.06 | 42(hard) | yes | 72 |
+| 2018.12.07 | 45(hard) | yes | 73 |
