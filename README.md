@@ -89,3 +89,4 @@ If you are interested in it, please join us!
 | 2018.12.08 | 62,63(medium) | yes | 74 |
 | 2018.12.09 | 64,74(medium) | yes | 75 |
 | 2018.12.10 | 75,78(medium) | yes | 76 |
+| 2018.12.11 | 79,80(medium) | yes | 77 |
