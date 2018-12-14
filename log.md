@@ -103,3 +103,9 @@ A new month comes!
 (noted on 2018.12.01)
 
 ---
+
+the 80th day
+
+(noted on 2018.12.14)
+
+---
