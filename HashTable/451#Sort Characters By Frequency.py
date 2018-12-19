@@ -35,11 +35,6 @@ class Solution:
     # 1
     # 先用Counter，再用sort
     def frequencySort1(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-
         mapping = sorted(((idx,v) for idx,v in Counter(s).items()),key=lambda item:item[1], reverse=True)
         return "".join([idx*v for (idx,v) in mapping])
     # 2
