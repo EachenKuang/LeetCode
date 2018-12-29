@@ -107,4 +107,4 @@ If you are interested in it, please join us!
 | 2018.12.26 | 611,718(medium) | yes | 92 |
 | 2018.12.27 | 944,961(easy) | yes | 93 |
 | 2018.12.28 | 917,925(easy) | yes | 94 |
-
+| 2018.12.29 | 842,385(medium) | yes | 95 |
