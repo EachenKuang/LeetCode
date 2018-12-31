@@ -109,3 +109,4 @@ If you are interested in it, please join us!
 | 2018.12.28 | 917,925(easy) | yes | 94 |
 | 2018.12.29 | 842,385(medium) | yes | 95 |
 | 2018.12.30 | 848(medium) | yes | 96 |
+| 2018.12.31 | 43,678(medium) | yes | 97 |
