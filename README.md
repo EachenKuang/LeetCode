@@ -113,3 +113,4 @@ If you are interested in it, please join us!
 | 2019.01.01 | 91,165(medium) | yes | 98 |
 | 2019.01.02 | 761(hard) | yes | 99 |
 | 2019.01.03 | 632(hard) | yes | 100 |
+| 2019.01.04 | 899(hard) | yes | 101 |
