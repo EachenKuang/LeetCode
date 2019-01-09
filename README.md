@@ -118,3 +118,4 @@ If you are interested in it, please join us!
 | 2019.01.06 | 726(hard) | yes | 103 |
 | 2019.01.07 | 565,969(medium) | yes | 104 |
 | 2019.01.08 | 289(medium),509(easy) | yes | 105 |
+| 2018.01.09 | 852,942,965(easy) | yes | 106 |
