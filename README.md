@@ -11,6 +11,9 @@ If you are interested in it, please join us!
 [*Eachen Kuang's* **Zhihu**](https://www.zhihu.com/people/po-xiao-chen/)  
 [*Eachen Kuang's* **WebSite**](https://www.eachen.online/)
 
+### log
+click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see logs
+
 ### Check List
 | Date | Problems | Checked | day |
 | :------: | :------: | :------: | :------: |
@@ -121,6 +124,3 @@ If you are interested in it, please join us!
 | 2019.01.08 | 289(medium),509(easy) | yes | 105 |
 | 2018.01.09 | 852,942,965(easy) | yes | 106 |
 | 2018.01.10 | 821,876,933(easy) | yes | 107 |
-
-### log
-click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see logs
