@@ -125,3 +125,4 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.01.09 | 852,942,965(easy) | yes | 106 |
 | 2018.01.10 | 821,876,933(easy) | yes | 107 |
 | 2018.01.11 | 682,784,806(easy) | yes | 108 |
+| 2018.01.12 | 700,872,908(easy) | yes | 109 |
