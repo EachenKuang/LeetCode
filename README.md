@@ -137,3 +137,4 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.01.21 | 977(easy),338(medium) | yes | 118 |
 | 2018.01.22 | 938,701(medium) | yes | 119 |
 | 2018.01.23 | 769,216(medium) | yes | 120 |
+| 2018.01.24 | 714,926(medium) | yes | 121 |
