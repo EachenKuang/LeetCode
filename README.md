@@ -143,3 +143,4 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.01.27 | 85(hard) | yes | 124 |
 | 2018.01.28 | 123(hard) | yes | 125 |
 | 2018.01.29 |  | not yet | 126 |
+| 2018.01.30 |  | not yet | 127 |
