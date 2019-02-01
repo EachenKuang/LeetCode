@@ -145,3 +145,4 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.01.29 |  | not yet | 126 |
 | 2018.01.30 |  | not yet | 127 |
 | 2018.01.31 |  | not yet | 128 |
+| 2018.02.01 |  | not yet | 129 |
