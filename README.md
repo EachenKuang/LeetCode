@@ -151,3 +151,17 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.02.04 |  | not yet | 132 |
 | 2018.02.05 |  | not yet | 133 |
 | 2018.02.06 |  | not yet | 134 |
+| 2018.02.07 |  | not yet | 135 |
+| 2018.02.08 |  | not yet | 136 |
+| 2018.02.09 |  | not yet | 137 |
+| 2018.02.10 |  | not yet | 138 |
+| 2018.02.11 |  | not yet | 139 |
+| 2018.02.12 |  | not yet | 140 |
+| 2018.02.13 |  | not yet | 141 |
+| 2018.02.14 |  | not yet | 142 |
+| 2018.02.15 |  | not yet | 143 |
+| 2018.02.16 |  | not yet | 144 |
+| 2018.02.17 |  | not yet | 145 |
+| 2018.02.18 | 883,892,985 | yes | 146 |
+
+
