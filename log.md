@@ -109,3 +109,6 @@ the 80th day
 (noted on 2018.12.14)
 
 ---
+
+After spring holidays, restart our job!!
+(noted on 2019.2.18)
