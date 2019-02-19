@@ -163,5 +163,5 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.02.16 |  | not yet | 144 |
 | 2018.02.17 |  | not yet | 145 |
 | 2018.02.18 | 883,892,985 | yes | 146 |
-
+| 2018.02.19 | 427,993,783 | yes | 146 |
 
