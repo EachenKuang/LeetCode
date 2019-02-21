@@ -35,7 +35,7 @@ class TreeNode:
         self.right = None
 
 class Solution:
-    def findSecondMinimumValue(self, root: 'TreeNode') -> 'int'
+    def findSecondMinimumValue(self, root: 'TreeNode') -> 'int':
         self.ans = float('inf')
         min1 = root.val
 
