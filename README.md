@@ -165,4 +165,4 @@ click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see 
 | 2018.02.18 | 883,892,985 | yes | 146 |
 | 2018.02.19 | 427,993,783 | yes | 147 |
 | 2018.02.20 | 653,994,989 | yes | 148 |
-
+| 2018.02.21 | 744,671,984 | yes | 149 |
