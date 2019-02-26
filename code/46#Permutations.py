@@ -40,3 +40,12 @@ class Solution2:
                     new_ret.append(seq[:i] + [n] + seq[i:])
             ret = new_ret
         return ret
+
+class Soluition3:
+    def permute(nums):
+        permutations = [[]]
+
+        for head in nums:
+            permutations = [rest[:i] + [head] + rest[i:] for rest in permutations for i in range(len(rest) + 1)]
+
+        return permutations
