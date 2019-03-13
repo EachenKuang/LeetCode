@@ -14,6 +14,10 @@ If you are interested in it, please join us!
 ### log
 click [here](https://github.com/EachenKuang/LeetCode/blob/master/log.md) to see logs
 
+### Description
+3.13 There will be a long time for graduation, so Coding in LeetCode will be terminated for a while.
+Maybe it will restart in April.
+
 ### Check List
 | Date | Problems | Checked | day |
 | :------: | :------: | :------: | :------: |
