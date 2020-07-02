@@ -14,10 +14,11 @@ class Solution:
                          grid[r+2][c], grid[r+2][c+1], grid[r+2][c+2]):
                     ans += 1
         return ans
-    def isMagix(a,b,c,d,e,f,g,h,i):
+    def isMagix(self, a,b,c,d,e,f,g,h,i):
         if e!=5:
             return False
         else:
+            pass
     def isMagix(self,a,b,c,d,e,f,g,h,i):
         if e!=5:
             return False
