@@ -11,5 +11,6 @@
 | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | 简单 | 2020.12.06 | [SwordOffer_10_1](SwordOffer_10_1.py) |
 | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | 简单 | 2020.12.06 | [SwordOffer_10_2](SwordOffer_10_2.py) |
 | [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 简单 | 2020.12.07 | [SwordOffer_11](SwordOffer_11.py)     |
-|                                                              |      |            |                                       |
-
+| [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | 中等 | 2021.04.28 | [SwordOffer_12](SwordOffer_12.py)     |
+| [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | 中等 | 2021.04.28 | [SwordOffer_13](SwordOffer_13.py)     |
+| [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 中等 | 2021.04.28 | [SwordOffer_14](SwordOffer_14.py)     |
