@@ -1,26 +1,3 @@
-TencentNote主要用于在线的内部笔记输出
-
-说明
-
-
-
-
-
-http://itil.wsd.com/privilege/privilege_interface.html?priMenuId=960974&menupath=%E6%9D%83%E9%99%90%E7%B3%BB%E7%BB%9F~%E7%B3%BB%E7%BB%9F%E5%B8%AE%E5%8A%A9~%E5%AF%B9%E5%A4%96%E6%8E%A5%E5%8F%A3&layout_p_host=itil.wsd.com#_Toc12615
-
-方式一、获取工牌照片
-
-http://r.hrc.oa.com/photo/500/eachenkuang.png
-
-方式二、获取KM照片
-
-http://dayu.oa.com/avatars/eachenkuang/profile.jpg?0
-
-
-
-
-
-
 # 剑指Offer刷题记录
 
 | Problems                                                     | Rank | Date       | Solution                              |
@@ -42,3 +19,5 @@ http://dayu.oa.com/avatars/eachenkuang/profile.jpg?0
 | [剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 中等 | 2021.05.01 | [SwordOffer_16](SwordOffer_16.py)     |
 | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | 简单 | 2021.05.01 | [SwordOffer_17](SwordOffer_17.py)     |
 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 简单 | 2021.05.01 | [SwordOffer_18](SwordOffer_18.py)     |
+| [剑指 Offer 19. 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | 困难 | 2021.05.01 | [SwordOffer_19](SwordOffer_19.py)     |
+| [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | 中等 | 2021.05.01 | [SwordOffer_20](SwordOffer_20.py)     |
