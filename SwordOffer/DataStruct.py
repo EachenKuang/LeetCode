@@ -27,10 +27,7 @@ def init_list_from_list_node(list_node: ListNode):
 
 
 def print_list_node(list_node: ListNode):
-    head = list_node
-    while head:
-        print(head.val)
-        head = head.next
+    print(init_list_from_list_node(list_node))
 
 
 # Definition for a binary tree node.
