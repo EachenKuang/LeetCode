@@ -23,3 +23,5 @@
 | [剑指 Offer 20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | 中等 | 2021.05.01 | [SwordOffer_20](SwordOffer_20.py)     |
 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 简单 | 2021.05.04 | [SwordOffer_21](SwordOffer_21.py)     |
 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | 简单 | 2021.05.04 | [SwordOffer_22](SwordOffer_22.py)     |
+| [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | 简单 | 2021.05.05 | [SwordOffer_24](SwordOffer_24.py)     |
+| [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 简单 | 2021.05.05 | [SwordOffer_25](SwordOffer_25.py)     |
