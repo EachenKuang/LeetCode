@@ -25,4 +25,6 @@
 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | 简单 | 2021.05.04 | [SwordOffer_22](SwordOffer_22.py)     |
 | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | 简单 | 2021.05.05 | [SwordOffer_24](SwordOffer_24.py)     |
 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 简单 | 2021.05.05 | [SwordOffer_25](SwordOffer_25.py)     |
-| [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)| 中等 | 2021.05.06 | [SwordOffer_26](SwordOffer_26.py)|
+| [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | 中等 | 2021.05.06 | [SwordOffer_26](SwordOffer_26.py)     |
+| [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | 简单 | 2021.05.06 | [SwordOffer_27](SwordOffer_27.py)     |
+| [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | 简单 | 2021.05.07 | [SwordOffer_28](SwordOffer_28.py)     |
