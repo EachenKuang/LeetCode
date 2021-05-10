@@ -33,3 +33,5 @@
 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| 中等 | 2021.05.09 |[SwordOffer_31](SwordOffer_31.py)    | 
 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | 中等 | 2021.05.09 | [SwordOffer_32](SwordOffer_32.py) |
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | 简单 | 2021.05.09 | [SwordOffer_32_2](SwordOffer_32_2.py) |
+| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)| 中等 | 2021.05.10 | [SwordOffer_33_2](SwordOffer_33_2.py) |
+| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)| 中等 | 2021.05.10 | [SwordOffer_33](SwordOffer_33.py) |
