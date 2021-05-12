@@ -30,8 +30,10 @@
 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | 简单 | 2021.05.07 | [SwordOffer_28](SwordOffer_28.py)     |
 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | 简单 | 2021.05.08 | [SwordOffer_29](SwordOffer_29.py)     |
 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | 简单 | 2021.05.08 | [SwordOffer_30](SwordOffer_30.py)     |
-| [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)| 中等 | 2021.05.09 |[SwordOffer_31](SwordOffer_31.py)    | 
-| [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | 中等 | 2021.05.09 | [SwordOffer_32](SwordOffer_32.py) |
+| [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | 中等 | 2021.05.09 | [SwordOffer_31](SwordOffer_31.py)     |
+| [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | 中等 | 2021.05.09 | [SwordOffer_32](SwordOffer_32.py)     |
 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | 简单 | 2021.05.09 | [SwordOffer_32_2](SwordOffer_32_2.py) |
-| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/)| 中等 | 2021.05.10 | [SwordOffer_33_2](SwordOffer_33_2.py) |
-| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)| 中等 | 2021.05.10 | [SwordOffer_33](SwordOffer_33.py) |
+| [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | 中等 | 2021.05.10 | [SwordOffer_33_2](SwordOffer_33_2.py) |
+| [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | 中等 | 2021.05.10 | [SwordOffer_33](SwordOffer_33.py)     |
+| [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 中等 | 2021.05.12 | [SwordOffer_34](SwordOffer_34.py)     |
+| [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 中等 | 2021.05.12 | [SwordOffer_35](SwordOffer_35.py)     |

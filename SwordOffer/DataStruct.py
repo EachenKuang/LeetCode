@@ -17,6 +17,14 @@ class TreeNode:
         self.right = None
 
 
+# Definition for a Node.
+class Node:
+    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
+        self.val = int(x)
+        self.next = next
+        self.random = random
+
+
 def init_list_node_from_list(list_node: List):
     ret_node_list = ListNode(0)
     key = ret_node_list
