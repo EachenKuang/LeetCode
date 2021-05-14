@@ -37,3 +37,5 @@
 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | 中等 | 2021.05.10 | [SwordOffer_33](SwordOffer_33.py)     |
 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 中等 | 2021.05.12 | [SwordOffer_34](SwordOffer_34.py)     |
 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 中等 | 2021.05.12 | [SwordOffer_35](SwordOffer_35.py)     |
+| [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | 中等 | 2021.05.14 | [SwordOffer_36](SwordOffer_36.py)     |
+| [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | 困难 | 2021.05.14 | [SwordOffer_37](SwordOffer_37.py)     |
