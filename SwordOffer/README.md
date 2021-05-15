@@ -39,3 +39,5 @@
 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 中等 | 2021.05.12 | [SwordOffer_35](SwordOffer_35.py)     |
 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | 中等 | 2021.05.14 | [SwordOffer_36](SwordOffer_36.py)     |
 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | 困难 | 2021.05.14 | [SwordOffer_37](SwordOffer_37.py)     |
+| [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | 中等 | 2021.05.15 | [SwordOffer_38](SwordOffer_38.py)     |
+| [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | 简单 | 2021.05.15 | [SwordOffer_39](SwordOffer_39.py)     |
