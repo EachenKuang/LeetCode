@@ -16,6 +16,7 @@
 # 0 <= k <= arr.length <= 10000
 # 0 <= arr[i] <= 10000
 
+import heapq
 from typing import List
 
 
@@ -31,13 +32,35 @@ class Solution:
     """
     方法二：
     堆排序，获取前K个最小值，使用小顶堆
+    使用的库函数
     建堆 O(N)+O(klogN)
     """
     def getLeastNumbers2(self, arr: List[int], k: int) -> List[int]:
-        arr.sort()
-        return arr[:k]
+        return heapq.nsmallest(k, arr)
+
     """
     方法三：
-    冒泡排序，做k次冒泡，最后的K的就是
-    时间复杂度 O(KN)
+    利用快排
+    时间复杂度 O(N)
     """
+    def getLeastNumbers4(self, arr: List[int], k: int) -> List[int]:
+        if k >= len(arr): 
+            return arr
+        def quick_sort(l, r):
+            i, j = l, r
+            while i < j:
+                while i < j and arr[j] >= arr[l]: 
+                    j -= 1
+                while i < j and arr[i] <= arr[l]: 
+                    i += 1
+                arr[i], arr[j] = arr[j], arr[i]
+            arr[l], arr[i] = arr[i], arr[l]
+            if k < i: 
+                return quick_sort(l, i - 1) 
+            if k > i: 
+                return quick_sort(i + 1, r)
+            return arr[:k]
+            
+        return quick_sort(0, len(arr) - 1)
+
+
