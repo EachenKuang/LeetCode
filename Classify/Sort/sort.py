@@ -64,61 +64,99 @@ def bubbleSort(nums):
 print("bubbleSort(3,5,2,4,1)",bubbleSort([3,5,2,4,1]))
 #-----------------------------------------------------------------------------
 
-
 #快速排序
-import random
-def quickSort(nums):
-	"""
-	快速排序通过一个切分元素将数组分为两个子数组，
-	左子数组小于等于切分元素，右子数组大于等于切分元素，
-	将这两个子数组排序也就将整个数组排序了。
-	:param nums:
-	:return:
-	"""
-	def partion(nums,left,right):
-		"""
-		取num[left]作为切分元素，然后从数组的左端向右扫描直到找到第一个大于等于它的元素，
-		再从数组的右端向左扫描找到第一个小于等于它的元素，交换这两个元素，并不断进行这个过程，
-		就可以保证左指针i的左侧元素都不大于切分元素，右指针j的右侧元素都不小于切分元素。
-		当两个指针相遇时，将切分元素a[left]和a[j]交换位置。
-		:param nums:
-		:param left:
-		:param right:
-		:return:
-		"""
-		i=left+1
-		j=right
-		temp=nums[left]
-		while True:
-			while nums[i]<=temp and i!=right:
-				i+=1
-			while nums[j]>=temp and j!=left:
-				j-=1
-			if i>=j:
-				break
-			nums[i],nums[j]=nums[j],nums[i]
-			nums[left],nums[j]=nums[j],nums[left]
-		return j
+from typing import List
 
-	def sort(nums,left,right):
-		"""
-		:paramnums:
-		:paramleft:
-		:paramright:
-		:return:
-		"""
-		if left<right:
-			div=partion(nums,left,right)
-			sort(nums,left,div-1)
-			sort(nums,div+1,right)
+def quick_sort(nums: List[int]):
+	"""
+	递归方法实现快排
+	"""
+	def quick(nums: List[int], l: int, r: int):
+		if l >= r:
+			return nums
+		# 哨兵划分操作（以 nums[l] 作为基准数）
+		i = l
+		j = r
+		while i < j:
+			# 从右往左，查找首个小于基准的数
+			while i < j and nums[j] >= nums[l]: 
+				j -= 1
+			# 从左往右，查找首个大于基准的数
+			while i < j and nums[i] <= nums[l]: 
+				i += 1
+			nums[i], nums[j] = nums[j], nums[i]
+		nums[l], nums[i] = nums[i], nums[l]
+		# 递归左（右）子数组执行哨兵划分
+		quick(nums, l, i - 1)
+		quick(nums, i + 1, r)
 		return nums
+	return quick(nums, 0, len(nums) - 1)
 
-	random.shuffle(nums)
-	return sort(nums,0,len(nums)-1)
+print("quick_sort(3,5,2,4,1,4,6,32,5,6)",quick_sort([3,5,2,4,1,4,6,32,5,6]))
 
+def quick_sort_partition(nums: List[int]):
 
-print("quickSort(3,5,2,4,1,4,6,32,5,6)",quickSort([3,5,2,4,1,4,6,32,5,6]))
-#-----------------------------------------------------------------------------
+	def partition(nums: List[int], l, r) -> int:
+		if l >= r:
+			return l
+		# 这里使用最左边作为哨兵
+		i, j = l, r
+		while i < j:
+			# 从右往左，查找首个小于基准的数
+			while i < j and nums[j] >= nums[l]: 
+				j -= 1
+			# 从左往右，查找首个大于基准的数
+			while i < j and nums[i] <= nums[l]: 
+				i += 1
+			nums[i], nums[j] = nums[j], nums[i]
+		nums[l], nums[i] = nums[i], nums[l]
+		return i
+	
+	def quick(nums: List[int], left, right):
+		if left >= right:
+			return
+		pivot = partition(nums, left, right)
+		quick(nums, left, pivot -1)
+		quick(nums, pivot + 1, right)
+	
+	quick(nums, 0, len(nums)-1)
+	return nums
+		
+print("quick_sort_partition(3,5,2,4,1,4,6,32,5,6)",quick_sort_partition([3,5,2,4,1,4,6,32,5,6]))
+
+def quick_sort_stack(nums: List[int]):
+	"""
+	上面使用的是递归，实际上，可以通过stack的方法来实现非递归
+	"""
+	def partition(nums: List[int], l, r) -> int:
+		if l >= r:
+			return l
+		# 这里使用最左边作为哨兵
+		i, j = l, r
+		while i < j:
+			# 从右往左，查找首个小于基准的数
+			while i < j and nums[j] >= nums[l]: 
+				j -= 1
+			# 从左往右，查找首个大于基准的数
+			while i < j and nums[i] <= nums[l]: 
+				i += 1
+			nums[i], nums[j] = nums[j], nums[i]
+		nums[l], nums[i] = nums[i], nums[l]
+		return i
+	
+	left = 0
+	right = len(nums)-1
+	stack = [(left, right)]
+	while stack:
+		l, r = stack.pop()
+		if l > r:
+			continue
+		pivot = partition(nums, l, r)
+		stack.insert(0, (l, pivot - 1)) 
+		stack.insert(0, (pivot + 1, r)) 
+	return nums
+
+print("quick_sort_stack(3,5,2,4,1,4,6,32,5,6)",quick_sort_stack([3,5,2,4,1,4,6,32,5,6]))
 
 
 #归并排序

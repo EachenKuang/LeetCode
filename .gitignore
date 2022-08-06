@@ -13,5 +13,7 @@ tests/
 # virtual environment
 venv
 
+# vscode
+.vscode
 
 
