@@ -17,4 +17,15 @@ class Solution:
                 return False
             
         return True
-			
+
+    def isPalindrome2(self, s):
+            """
+            :type s: str
+            :rtype: bool
+            """
+            import re
+            s = s.lower()
+            s1 = re.findall(r'[a-z0-9]', s)
+            s2 = "".join(s1)
+            # 使用字符串切片反转
+            return s2[::-1] == s2
