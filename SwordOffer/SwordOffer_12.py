@@ -35,9 +35,5 @@ class Solution:
 if __name__ == '__main__':
     input_items = [3, 4, 5, 6, 1, 2]
     solution = Solution()
-    # assert 1 == solution.minArray(input_items)
-    # assert 1 == solution.minArray2(input_items)
-    # assert 1 == solution.minArray3(input_items)
     board = [["A", "B", "C", "E"], ["S", "F", "C", "S"], ["A", "D", "E", "E"]]
-    print(find_positions(board, "A"))
     solution.exist(board, "ABC")

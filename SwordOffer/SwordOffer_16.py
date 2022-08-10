@@ -52,3 +52,17 @@ class Solution:
             x *= x
             n >>= 1
         return res
+
+    # 这个就是快速幂的递归方法
+    # 实际上可以不用考虑底数为负数的情况
+    def myPow3(self, x: float, n: int) -> float:
+        if n == 0:
+            return 1
+        elif n < 0:
+            return self.myPow(1/x, -n)
+        
+        if n % 2:
+            return x * self.myPow(x, n-1)
+        else:
+            temp = self.myPow(x, n//2)
+            return temp * temp

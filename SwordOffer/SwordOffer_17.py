@@ -26,3 +26,6 @@ class Solution:
 
     # 其实应该考虑是的大数的存储问题，不论是short，int, long 都是有其最大值的，所以需要考虑用字符串存储。
     # 实际上是一个全排列。
+    def printNumbers(self, n: int) -> List[str]:
+        pass
+    

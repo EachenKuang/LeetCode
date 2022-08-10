@@ -22,6 +22,7 @@ from SwordOffer.DataStruct import ListNode
 
 
 class Solution:
+    # 双指针
     def deleteNode(self, head: ListNode, val: int) -> ListNode:
         if not head:
             # 判断节点为非空
@@ -35,3 +36,4 @@ class Solution:
         if cur:
             pre.next = cur.next
         return head
+    # 单指针
