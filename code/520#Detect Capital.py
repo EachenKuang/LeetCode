@@ -5,10 +5,10 @@ class Solution:
         :type word: str
         :rtype: bool
         """
-        if len(word)==1:
+        if len(word) == 1:
             return True
         if word.islower() or word.isupper():
             return True
-        elif word[0].isupper() and  word[1:].islower():
+        elif word[0].isupper() and word[1:].islower():
             return True
         return False
