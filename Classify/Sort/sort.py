@@ -176,25 +176,25 @@ def merge(left,right):
 		else:
 			result.append(right[j])
 			j+=1
-		result+=left[i:]
-		result+=right[j:]
+	result+=left[i:]
+	result+=right[j:]
 	return result
 
 
-	def mergeSort(nums):
-		"""
-		归并排序的思想是将数组分成两部分，分别进行排序，然后归并起来。
-		:paramnums:
-		:return:
-		"""
-		if len(nums)<=1:
-			return nums
-		middle=len(nums)//2
-		left=mergeSort(nums[:middle])
-		right=mergeSort(nums[middle:])
-		return merge(left,right)
+def mergeSort(nums):
+	"""
+	归并排序的思想是将数组分成两部分，分别进行排序，然后归并起来。
+	:paramnums:
+	:return:
+	"""
+	if len(nums)<=1:
+		return nums
+	middle=len(nums)//2
+	left=mergeSort(nums[:middle])
+	right=mergeSort(nums[middle:])
+	return merge(left,right)
 
-print("mergeSort(3,5,2,4,1,4,6,32,5,6)",merge([3,5,2,4],[1,4,6,32,5,6]))
+print("mergeSort(3,5,2,4,1,4,6,32,5,6)",mergeSort([3,5,2,4,1,4,6,32,5,6]))
 
 
 #堆排序
