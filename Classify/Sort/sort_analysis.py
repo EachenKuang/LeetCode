@@ -36,7 +36,7 @@ def bubble_sort(nums: List[int]) -> List[int]:
     length = len(nums)
     for i in range(length):
         is_sorted = True
-        for j in range(0, length - 1):
+        for j in range(0, length - 1 - i):
             if nums[j] > nums[j + 1]:
                 # 交换相邻的位置
                 swap(nums, j, j + 1)
