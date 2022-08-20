@@ -58,12 +58,13 @@ def list_to_binary_tree(nums: List) -> Union[TreeNode, None]:
         head = d.popleft()
         try:
             head.left = TreeNode(next(iter_value))
-            d.append(head.l_node)
+            d.append(head.left)
             head.right = TreeNode(next(iter_value))
-            d.append(head.r_node)
+            d.append(head.right)
         except StopIteration:
             break
     return root
+
 
 
 def list_to_binary_tree_2(nums: List) -> Union[TreeNode, None]:
@@ -88,6 +89,11 @@ def tree_to_list(tree: TreeNode) -> List:
 
 if __name__ == '__main__':
     test_list = [1, 2, 3, 4, 5, 6]
+    test_list_node = init_list_node_from_list(test_list)
+    assert test_list == init_list_from_list_node(test_list_node)
+    print_list_node(test_list_node)
+
+    test_list = [1, 2, 3, 4, None, None, 5, 6]
     test_list_node = init_list_node_from_list(test_list)
     assert test_list == init_list_from_list_node(test_list_node)
     print_list_node(test_list_node)
