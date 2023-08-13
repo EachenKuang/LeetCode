@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2023/8/13 21:25
 # @Author  : eachenkuang
-# @Email   : eachenkuang@foxmail.com
+# @Email   : eachen.kuang@foxmail.com
 # @File    : 27_remove_element.py
 #
 from typing import List
