@@ -15,7 +15,7 @@ class Solution(object):
             return None
         q1 = head
         q2 = head.next
-        while q1!= q2:
+        while q1 != q2:
             if not q2 or not q2.next:
                 return None
             q1 = q1.next
@@ -23,8 +23,8 @@ class Solution(object):
         # 确定有环，从头指针与q1 q2相遇的地方分别遍历
         res = head
         q1 = q1.next
-        while res!=q1:
-            res=res.next
-            q1=q1.next
+        while res !=q1:
+            res = res.next
+            q1 = q1.next
         return res
             
