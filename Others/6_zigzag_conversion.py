@@ -62,5 +62,3 @@ class Solution:
         for m in matrix:
             result += "".join(m)
         return result
-
-import random
